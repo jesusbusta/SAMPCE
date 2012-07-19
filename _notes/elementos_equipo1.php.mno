@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_equi" value="name:codigo_equipo;datatype:string,name:nombre_equipo;datatype:string,name:modelo;datatype:string,name:marca;datatype:string,name:descripcion;datatype:string,name:fecha_ingreso;datatype:string,name:cantidad;datatype:string,name:estado;datatype:string,name:archivo;datatype:string,name:titulo;datatype:string" />
+</info>

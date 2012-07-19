@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_equi" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:cargo;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:sexo;datatype:string,name:fecha;datatype:string,name:horario;datatype:string,name:archivo;datatype:string,name:titulo;datatype:string" />
+	<infoitem key="UD_empleado" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:cargo;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:sexo;datatype:string,name:fecha;datatype:string,name:horario;datatype:string,name:archivo;datatype:string,name:titulo;datatype:string" />
+	<infoitem key="UD_equipo" value="name:codigo_equipo;datatype:string,name:nombre_equipo;datatype:string,name:modelo;datatype:string,name:marca;datatype:string,name:descripcion;datatype:string,name:fecha_ingreso;datatype:string,name:cantidad;datatype:string,name:estado;datatype:string,name:archivo;datatype:string,name:titulo;datatype:string" />
+	<infoitem key="MMGuideColor" value="#00FF00" />
+	<infoitem key="MMGuideVisible" value="true" />
+	<infoitem key="MMGuideLocked" value="false" />
+	<infoitem key="MMSnapToGuide" value="true" />
+	<infoitem key="MMGuidesSnapToElements" value="true" />
+	<infoitem key="MMDistanceColor" value="#0000FF" />
+	<infoitem key="UD_elemento" value="name:id_elemento;datatype:int,name:cod_elemento;datatype:string,name:nombre_elemento;datatype:string,name:descripcion;datatype:string,name:dimensiones;datatype:string,name:archivo;datatype:string,name:titulo;datatype:string,name:equipo;datatype:string" />
+	<infoitem key="MMGuideCount" value="1" />
+	<infoitem key="MMGuide0" value="horizontal: user 628 px" />
+</info>

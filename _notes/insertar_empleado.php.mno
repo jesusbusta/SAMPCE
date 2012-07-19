@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bu" value="name:ci;datatype:int,name:nombre_empleado;datatype:string,name:apellido;datatype:string,name:cargo;datatype:string,name:tlf;datatype:string,name:direccion;datatype:string,name:sexo;datatype:string,name:horario;datatype:string" />
+</info>
